@@ -10,7 +10,7 @@ Each project is focused, clean, and ideal for mastering one concept at a time.
 
 | Project | Description | Key Concepts |
 |:----------|:--------------|:---------------|
-| [Card Project](./card) | Displays job openings using reusable card components and props from an array. | **Props**, **Mapping**, **Component Reusability** |
+| [Card Project](./cards) | Displays job openings using reusable card components and props from an array. | **Props**, **Mapping**, **Component Reusability** |
 
 
 ---
